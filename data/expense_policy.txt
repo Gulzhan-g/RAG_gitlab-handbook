@@ -1,0 +1,5 @@
+3.1 Out of Policy Transactions
+Expenses flagged as “Out of Policy” in Navan may mean that the expense requires additional review due to requiring certain attachments (e.g., an approved issue) and approvals. Upon review, if more clarification is needed for a certain expense, the AP team will contact the team member via Navan to ask for justification of the transaction before approving or rejecting the expense.
+Any exception to the policy is granted or denied at the discretion of the AP Admins. If the Admins determine that additional input is required, they will escalate the request to the team member’s manager to make a final decision. Exception approvals can be granted within the Navan tool or via a Compass ticket.
+There will be occasions where if you have claimed an item and it needs to be reimbursed back to GitLab, you will need to follow the repayment process in Navan for submission of the funds.
+If you have any questions regarding a rejected expense due to being out of policy, submit a request under the Expenses -> General Expenses tile Compass, ensuring that you tag your Manager , and adding any other additional documentation so this can be reviewed.

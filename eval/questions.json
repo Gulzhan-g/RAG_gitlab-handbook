@@ -1,0 +1,32 @@
+[
+  {
+    "question": "I joined with 92 days remaining in the year and the country's full-year public holiday entitlement is 10 days. What is my balance?",
+    "expected": "3 days (2.52 rounded up)",
+    "source": "public_holidays.pdf"
+  },
+  {
+    "question": "Can I take part of a public holiday, for example half a day?",
+    "expected": "ЗАПОЛНИТЬ из public_holidays.pdf",
+    "source": "public_holidays.pdf"
+  },
+  {
+    "question": "Сколько дней подряд можно взять в рамках Flexible PTO?",
+    "expected": "ЗАПОЛНИТЬ из flexible_pto.docx",
+    "source": "flexible_pto.docx"
+  },
+  {
+    "question": "ЗАПОЛНИТЬ: вопрос по support_time_off.txt",
+    "expected": "ЗАПОЛНИТЬ",
+    "source": "support_time_off.txt"
+  },
+  {
+    "question": "ЗАПОЛНИТЬ: вопрос по expense_policy.txt",
+    "expected": "ЗАПОЛНИТЬ",
+    "source": "expense_policy.txt"
+  },
+  {
+    "question": "Какая политика компании по корпоративным машинам?",
+    "expected": "NO_ANSWER",
+    "source": "none"
+  }
+]
